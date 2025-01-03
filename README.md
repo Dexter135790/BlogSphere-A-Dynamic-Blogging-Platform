@@ -30,7 +30,7 @@ A modern, responsive, and feature-rich blog platform developed using Flask, SQLA
 
 ## Demo
 
-🌐 **Live Demo:** [Coming Soon!]
+🌐 **Live Demo:** [https://drive.google.com/file/d/1Dzr41yuWk--9M0bTNJsaxb8T0doZjvhY/view?usp=sharing]
 
 ---
 
