@@ -105,19 +105,19 @@ project/
 
 ### Homepage
 
-_(Add screenshots here)_
+![Alt text](https://github.com/Dexter135790/BlogSphere-A-Dynamic-Blogging-Platform/blob/main/images/home%20page.png)
 
 ### Add New Post
 
-_(Add screenshots here)_
+![Alt text](https://github.com/Dexter135790/BlogSphere-A-Dynamic-Blogging-Platform/blob/main/images/new%20post.png)
 
 ### Edit Post
 
-_(Add screenshots here)_
+![Alt text](https://github.com/Dexter135790/BlogSphere-A-Dynamic-Blogging-Platform/blob/main/images/edit%20post.png)
 
 ### Blog Detail
 
-_(Add screenshots here)_
+![Alt text](https://github.com/Dexter135790/BlogSphere-A-Dynamic-Blogging-Platform/blob/main/images/blog%20detail.png)
 
 ---
 
